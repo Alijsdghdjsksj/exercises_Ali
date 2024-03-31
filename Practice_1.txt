@@ -1,0 +1,21 @@
+
+1. **Simple Calculator**: Write a program that takes two integers as input and prints their sum.
+
+2. **Temperature Converter**: Write a program that converts temperature from Fahrenheit to Celsius. The input should be in Fahrenheit and the output should be in Celsius.
+
+3. **Calculate Average**: Write a program that takes several numbers as input, calculates their average, and prints it.
+
+4. **Coordinate Transformation**: Write a program that takes the coordinates (x, y) of a point as input and prints its reversed coordinates (y, x).
+
+5. **Number Guessing Game**: Write a program that randomly selects a number and then invites the user to guess it. The program should tell the user whether the guessed number is higher or lower than the actual number.
+
+6. **Display Hypothetical Output**: Write a program that takes a string from the user as input and then combines it with a hypothetical text and displays it. For example, input "Hello" and hypothetical text "Welcome to our website", output "Hello, Welcome to our website".
+
+7. **Word Counter**: Write a program that takes a sentence as input and counts the number of words in it and prints it.
+
+8. **Calculate Factorial**: Write a program that takes a positive integer as input and calculates its factorial and prints it.
+
+9. **Display Current Date and Time**: Write a program that displays the current date and time of the system.
+
+10. **Welcome Message Program**: Write a program that asks for the user's name and then prints a message like "Hello [user's name]".
+
