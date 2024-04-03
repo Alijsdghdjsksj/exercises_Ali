@@ -1,0 +1,10 @@
+System.Console.WriteLine("enter number");
+int x = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine("enter number");
+int y = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine("enter number");
+int z = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine("enter number");
+int f = Convert.ToInt32(Console.ReadLine());
+int c = f + z + y + x;
+System.Console.WriteLine("avverage of numbers is " + c / 4);
